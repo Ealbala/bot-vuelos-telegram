@@ -2,8 +2,8 @@ import requests
 import telegram
 import os
 
-BOT_TOKEN = os.environ['7872288109:AAEEKb_WUnus80EtW0RiPwk23GGmY_s1yqU']
-CHAT_ID = os.environ['5534549783']
+BOT_TOKEN = os.environ['']
+CHAT_ID = os.environ['']
 
 URL = "https://www.flylevel.com/nwe/flights/api/calendar/?triptype=RT&origin=EZE&destination=BCN&month=02&year=2026&currencyCode=USD"  # Reemplazá por la URL real
 
